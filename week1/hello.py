@@ -1,0 +1,2 @@
+input(prompt)
+input("hello")

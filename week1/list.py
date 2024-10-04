@@ -1,0 +1,15 @@
+mylist=["apple","banana","grapes"]
+print(mylist)
+print(len(mylist))
+print(mylist[0])
+print(mylist[-2])
+print(mylist[1:2])
+mylist.insert(2,"watermelon")
+print(mylist)
+mylist.remove("watermelon")
+print(mylist)
+mylist.pop(0)
+print(mylist)
+mylist.clear()
+print(mylist)
+
